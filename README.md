@@ -18,13 +18,18 @@
 
 ## 📌 Overview
 
-Network MITM Detector
+ONetWatch is a network monitoring and packet-sentinel tool for ARP/TCP/UDP/ICMP/IP capture with ARP spoofing detection (IP-MAC mismatch, gratuitous ARP, flood, gateway impersonation). It offers DNS PTR caching, optional GeoIP, device tracking, alerts, and CSV/JSON/TXT export. Live capture typically needs root; `--pcap` enables offline analysis without root.
 
 ---
 
 ## ✨ Features
 
-- Network Security Monitor - ARP Spoofing and MITM Detection
+- Real-time packet capture for ARP / TCP / UDP / ICMP / IP
+- ARP spoofing detection: IP-MAC mismatch, gratuitous ARP, ARP flood, gateway impersonation
+- Background DNS PTR resolver with TTL cache; optional GeoIP (disable with `--no-geo`)
+- All-device tracker with per-device bandwidth and protocol filter bar
+- Alert flash and audio bell on MITM-style events
+- Export results to CSV / JSON / TXT; offline `--pcap` mode without live capture
 
 ---
 
@@ -38,7 +43,9 @@ Network MITM Detector
 ## 🚀 Usage
 
 ```bash
-./ONetWatch
+./ONetwatch --pcap capture.pcap --no-geo
+./ONetwatch --pcap sample.pcap
+./ONetwatch --help
 ```
 
 ---
