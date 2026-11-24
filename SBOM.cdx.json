@@ -71,7 +71,7 @@
       "scope": "required",
       "version": "2.8.0",
       "purl": "pkg:pypi/scapy@2.8.0",
-      "description": "بديل: dpkt (BSD) أو raw sockets أو استدعاء tcpdump/tshark كعملية منفصلة"
+      "description": "Packet crafting and analysis library"
     },
     {
       "type": "library",
@@ -93,11 +93,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -106,11 +106,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -119,11 +119,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -132,11 +132,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -145,11 +145,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -158,11 +158,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -171,11 +171,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -184,11 +184,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -197,11 +197,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -210,11 +210,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -223,11 +223,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -236,11 +236,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -249,11 +249,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -262,11 +262,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -275,11 +275,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -288,11 +288,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -301,11 +301,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -314,11 +314,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -327,11 +327,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -340,11 +340,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -353,11 +353,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -366,11 +366,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -379,11 +379,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -392,11 +392,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -405,11 +405,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -418,11 +418,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -431,11 +431,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -444,11 +444,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -457,11 +457,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -470,11 +470,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -483,11 +483,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -496,11 +496,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -509,11 +509,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -522,11 +522,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -535,11 +535,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -548,11 +548,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -561,11 +561,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -574,11 +574,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -587,11 +587,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -600,11 +600,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -613,11 +613,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -626,11 +626,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -639,11 +639,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -652,11 +652,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -665,11 +665,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -678,11 +678,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -691,11 +691,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -704,11 +704,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -717,11 +717,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -730,11 +730,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -743,11 +743,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -756,11 +756,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -769,11 +769,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -782,11 +782,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -795,11 +795,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -808,11 +808,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -821,11 +821,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -834,11 +834,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -847,11 +847,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -860,11 +860,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -873,11 +873,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -886,11 +886,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "library",
@@ -899,11 +899,11 @@
       "licenses": [
         {
           "license": {
-            "name": "انظر حزمة Debian الأصلية"
+            "name": "See the corresponding Debian source package"
           }
         }
       ],
-      "description": "مكتبة مشتركة من نظام Debian، مدمجة بواسطة PyInstaller"
+      "description": "Shared library from Debian, bundled by PyInstaller"
     },
     {
       "type": "platform",
@@ -916,7 +916,7 @@
           }
         }
       ],
-      "description": "مفسّر Python مدمج بواسطة PyInstaller"
+      "description": "Python interpreter bundled by PyInstaller"
     }
   ]
 }
