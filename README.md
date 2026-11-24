@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Linux-0a0c10?style=flat-square"/>
   <img src="https://img.shields.io/badge/Category-ONetwork-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-Proprietary-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-GPL--2.0-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Part%20of-OwlSec%20Toolkit-7b5ea7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Version-1.0.0-cyan?style=flat-square"/>
 </p>
@@ -60,9 +60,11 @@ This tool is part of the **OwlSec** suite — a collection of 275+ security and 
 
 ## ©️ License
 
-Proprietary — © 2026 Owlsec LLC. All rights reserved.
+**GNU General Public License v2.0** — © 2026 Owlsec LLC
 
-*Tools are distributed as pre-built executables. Source code is proprietary.*
+This tool links against [Scapy](https://scapy.net/) (GPL-2.0), so the tool as a whole is distributed under GPL-2.0. Its full source code is published in this repository (`ONetWatch.py`).
+
+> Other OwlSec tools are separate, independent programs and remain proprietary. This license applies only to this repository.
 
 ---
 
