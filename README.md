@@ -43,9 +43,9 @@ ONetWatch is a network monitoring and packet-sentinel tool for ARP/TCP/UDP/ICMP/
 ## 🚀 Usage
 
 ```bash
-./ONetwatch --pcap capture.pcap --no-geo
-./ONetwatch --pcap sample.pcap
-./ONetwatch --help
+./ONetWatch --pcap capture.pcap --no-geo
+./ONetWatch --pcap sample.pcap
+./ONetWatch --help
 ```
 
 ---
